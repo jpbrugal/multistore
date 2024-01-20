@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455843562232",
+    "project_id": "multi-store-admin-ac1b1",
+    "storage_bucket": "multi-store-admin-ac1b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455843562232:android:e62ca33610423d0e93b10d",
+        "android_client_info": {
+          "package_name": "com.jpbrugal.multi_store_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VGnjpudPfQZvTf3xxwL6X5p1zqkiXeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
